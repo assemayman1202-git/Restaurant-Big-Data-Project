@@ -86,17 +86,17 @@ Raw Data (1.5 GB)          Databricks                  Power BI
 
 ## 📦 Data Sources
 
-| File | Type | Description |
-|------|------|-------------|
-| `orders.csv` | CSV | Core transaction records |
-| `customers.csv` | CSV | Customer demographics & IDs |
-| `branches.csv` | CSV | Branch location metadata |
-| `products.csv` | CSV | Menu item details & pricing |
-| `categories.csv` | CSV | Product category hierarchy |
-| `payments.csv` | CSV | Payment method per order |
-| `order_items.csv` | CSV | Line-item breakdown per order |
-| `ratings.json` | JSON | Customer satisfaction scores |
-| `promotions.json` | JSON | Discount & promotion records |
+| File | Type 
+|------|------
+| `restaurant_1.csv` | CSV 
+| `restaurant_2.csv` | CSV 
+| `restaurant_3.csv` | CSV 
+| `restaurant_4.csv` | CSV 
+| `restaurant_5.csv` | CSV 
+| `restaurant_6.csv` | CSV 
+| `restaurant_7.csv` | CSV 
+| `restaurant_JSON1.json` | JSON
+| `restaurant_JSON2.json` | JSON 
 
 **Total Size:** ~1.5 GB | **Total Rows:** ~11 million
 
