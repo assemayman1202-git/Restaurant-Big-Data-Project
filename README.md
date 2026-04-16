@@ -32,15 +32,15 @@ A full-scale data engineering and business intelligence project analyzing **11.1
 restaurant-analytics/
 │
 ├── data/                        # Source data (not tracked — see note below)
-│   ├── orders.csv
-│   ├── customers.csv
-│   ├── branches.csv
-│   ├── products.csv
-│   ├── categories.csv
-│   ├── payments.csv
-│   ├── order_items.csv
-│   ├── ratings.json
-│   └── promotions.json
+│   ├── restaurant_1.csv
+│   ├── restaurant_2.csv
+│   ├── restaurant_3.csv
+│   ├── restaurant_4.csv
+│   ├── restaurant_5.csv
+│   ├── restaurant_6.csv
+│   ├── restaurant_7.csv
+│   ├── restaurant_JSON1.json
+│   └── restaurant_JSON2.json
 │
 ├── powerbi/
 │   └── restaurant_dashboard.pbix
@@ -51,7 +51,12 @@ restaurant-analytics/
 │   ├── Products Page.png
 │   └── Other Details.png
 │
+|__ SQL Queries notebook
+|
 └── README.md
+
+
+
 ```
 
 > ⚠️ **Note:** Raw data files (~1.5 GB) are not tracked due to size. Use `.gitignore` or Git LFS for large file management.
